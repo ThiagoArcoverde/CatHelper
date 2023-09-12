@@ -1,0 +1,2 @@
+# CatHelper
+A discord bot
